@@ -1,2 +1,2 @@
 # ElectroPlate-Studio
-This website is designed to produce g-code for in situ copper electroplating. This website merges together, at minimum, two CAD files: the base part to be copper plated, and the path of the copper plating itself.
+This website is designed to produce g-code for in situ copper electroplating. This website merges together, at minimum, two CAD files: the base part to be copper plated, and the path of the copper plating itself. All coding credits go to Maxwell Calvert, who developed this g-code merger while I was doing research with him at Widener University in the Mechanical Engineering research lab. My contributions to the g-code merger were to provide feedback on how the system could improve and be easier to use for the electroplating process.
